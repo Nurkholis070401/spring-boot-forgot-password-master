@@ -3,24 +3,25 @@
 |---|
 
 ## - Sign up
-![image](https://user-images.githubusercontent.com/100698149/164720269-0615db28-fc2d-4c01-9692-c3312163316a.png)
+![Screenshot 2022-04-23 155653](https://user-images.githubusercontent.com/100669802/164889325-42f79a7a-1e00-4dab-9ebf-dc61d93df10e.png)
+
 
 ## - Login
-![image](https://user-images.githubusercontent.com/100698149/164720579-e8854b6f-cfd2-4d30-8c43-e6211c3cc82c.png)
+![WhatsApp Image 2022-04-23 at 3 58 15 PM](https://user-images.githubusercontent.com/100669802/164889516-2f5f27d1-5259-405a-bd3a-61cfc9245304.jpeg)
+
 
 ## - Forgot Password
-![image](https://user-images.githubusercontent.com/100698149/164721114-f3e79504-678b-4b08-9c6c-7f851d10d797.png)
 
-![image](https://user-images.githubusercontent.com/100698149/164721186-4ed40feb-a949-479f-a7cc-fa83952f6a76.png)
+![WhatsApp Image 2022-04-23 at 4 03 42 PM](https://user-images.githubusercontent.com/100669802/164889501-40a9f51c-26e7-482f-a8b0-872173f4fb7c.jpeg)
 
-![image](https://user-images.githubusercontent.com/100698149/164721921-aedec875-b852-41b1-b9af-3a428c61bf86.png)
+![WhatsApp Image 2022-04-23 at 4 08 27 PM](https://user-images.githubusercontent.com/100669802/164889496-0e5d57c5-9e3b-4481-b3d7-65aed1434299.jpeg)
 
 ## - Reset Password
-![image](https://user-images.githubusercontent.com/100698149/164722104-b23a83b2-7c64-435c-b350-bccdae4eae25.png)
+![WhatsApp Image 2022-04-23 at 4 10 22 PM](https://user-images.githubusercontent.com/100669802/164889479-5f621dbf-395c-421e-8ff4-abfb6a245f83.jpeg)
 
 ## - Home
-![164083617-f593e101-7121-4a4f-95d7-a148b96196e9](https://user-images.githubusercontent.com/100698149/164722399-ed8a70b3-a2b9-4cc9-8613-509e4c60865a.png)
 
+![WhatsApp Image 2022-04-23 at 4 01 16 PM](https://user-images.githubusercontent.com/100669802/164889508-9393599e-6f4b-402c-822a-919beddfe946.jpeg)
 
 
 
